@@ -1,5 +1,7 @@
 # React Weather Application
 
+![Weather Screenshot](weather.gif)
+
 This is a simple weather application built using ReactJS. Users can get real-time weather information for the city they search for. If a user enters an invalid city name, an error notification is displayed.
 
 ## Features
