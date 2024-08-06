@@ -85,7 +85,7 @@ function Weather() {
                   required
                 />
                 <button type="submit" className="w-full bg-blue-500 text-white p-2 rounded-lg mt-2">
-                  Get
+                  Search
                 </button>
               </form>
             </div>
