@@ -47,15 +47,15 @@ function Weather() {
   const getWeatherIconUrl = (main) => {
     switch (main) {
       case "Clear":
-        return "/icons/sun.png";
+        return "src/icons/sun.gif";
       case "Rain":
-        return "/icons/rainy.png";
+        return "src/icons/rainy.gif";
       case "Snow":
-        return "/icons/snowy.png";
+        return "src/icons/snowy.gif";
       case "Haze":
-        return "/icons/sun.png";
+        return "src/icons/haze.gif";
       default:
-        return "/icons/cloudy.png"; // Default icon
+        return "src/icons/cloudy.gif"; // Default icon
     }
   };
 
